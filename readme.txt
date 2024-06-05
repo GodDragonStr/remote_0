@@ -1,0 +1,1 @@
+gitManager_6_5_1
